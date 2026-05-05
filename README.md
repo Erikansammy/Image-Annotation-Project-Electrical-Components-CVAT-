@@ -1,3 +1,7 @@
+<img width="510" height="342" alt="image" src="https://github.com/user-attachments/assets/3e64edd2-97c3-49bd-9d5d-20418738c1f6" />
+
+
+
 # Image-Annotation-Project-Electrical-Components-CVAT-
 This project focuses on annotating electrical infrastructure images using CVAT, where insulators and surge arresters were accurately identified and labeled based on their type and material using bounding box annotations.
 # 📌 Image Annotation Project – Electrical Components (CVAT)
